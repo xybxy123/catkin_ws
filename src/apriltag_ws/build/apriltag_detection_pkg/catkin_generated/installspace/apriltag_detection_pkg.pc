@@ -1,0 +1,8 @@
+prefix=/home/xy/apriltag_ws/install
+
+Name: apriltag_detection_pkg
+Description: Description of apriltag_detection_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

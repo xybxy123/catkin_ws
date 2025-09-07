@@ -1,0 +1,6 @@
+<library path="lib/libchassis_controller">
+  <class 
+    name="chassis_controller/ChassisController" 
+    type="controller_ns::ChassisController" 
+    base_class_type="controller_interface::ControllerBase" />
+</library>

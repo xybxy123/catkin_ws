@@ -1,0 +1,2 @@
+apriltag_detection_pkg
+-DCATKIN_DEVEL_PREFIX=/home/xy/apriltag_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xy/apriltag_ws/install -G Unix Makefiles
